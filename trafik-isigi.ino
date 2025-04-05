@@ -1,4 +1,4 @@
-int kirmizi = 11; 
+int kirmizi = 11;  
 int sari = 12;
 int yesil = 13;
 
