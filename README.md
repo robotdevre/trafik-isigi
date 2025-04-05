@@ -36,7 +36,7 @@ Bu proje, Arduino kullanarak temel bir trafik ışığı sistemini simüle eder.
 ## 📷 Devre Şeması
 
 📁 `diagram.json` dosyasında Wokwi uyumlu devre şeması yer almaktadır.  
-İstersen simülasyonu [Wokwi üzerinden buradan çalıştırabilirsin.](https://wokwi.com)
+İstersen simülasyonu [Wokwi üzerinden buradan çalıştırabilirsin.](https://wokwi.com/projects/426606437257448449)
 
 ---
 
