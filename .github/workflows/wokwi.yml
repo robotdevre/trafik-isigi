@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Show code
-        run: cat led_asenkron_kontrol.ino
+        run: cat trafik-isigi.ino
