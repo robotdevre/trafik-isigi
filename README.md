@@ -70,3 +70,16 @@ void loop() {
   delay(2000);
   digitalWrite(sari, LOW);
 }
+``` 
+---
+
+## 📫 Benimle İletişime Geç / Takip Et
+
+Eğer proje hakkında bir fikrin varsa, soruların olursa ya da sadece selam vermek istersen; aşağıdaki kanallardan bana ulaşabilir ya da sosyal medya hesaplarımdan takip edebilirsin:
+
+- 📧 [E-posta](mailto:info@robotdevre.com)  
+- 📷 [Instagram](https://www.instagram.com/robotdevre/)  
+- 🌐 [Web Sitesi](https://robotdevre.com/)  
+- 🎥 [YouTube](https://www.youtube.com/@robotdevre)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ugur-kerim-sirke/)  
+- 🐦 [X (Twitter)](https://x.com/robotdevre)
