@@ -1,4 +1,4 @@
-# trafik-isigi-kontrol 🚦 ![Wokwi CI](https://github.com/robotdevre/led_blink/actions/workflows/wokwi.yml/badge.svg)
+# trafik-isigi-kontrol 🚦 ![Wokwi CI](https://github.com/robotdevre/trafik_isigi/actions/workflows/wokwi.yml/badge.svg)
 
 Bu proje, Arduino kullanarak temel bir trafik ışığı sistemini simüle eder. Kırmızı, sarı ve yeşil LED’ler belirli zaman aralıklarında sırasıyla yanıp söner. Gerçek hayattaki trafik lambasının işleyişi modellenmiştir. Başlangıç ve orta seviye Arduino öğrenimi için uygundur.
 
