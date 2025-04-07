@@ -3,6 +3,9 @@ int sari = 12;
 int yesil = 13;
 
 void setup() {
+  Serial.begin(9600);
+  delay(100); // Bazı durumlarda gerekli
+  Serial.println("GITHUB TEST");
   pinMode(kirmizi, OUTPUT);
   pinMode(sari, OUTPUT);
   pinMode(yesil, OUTPUT);
